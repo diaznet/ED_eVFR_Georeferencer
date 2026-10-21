@@ -95,3 +95,8 @@ python ED_Georeferencer.py --groups VAC --vac-zoom 9-14 --threads 8 --colors 0
   waits 1 s before each request, downloads one plate at a time and stops at the first 403. Cached plates are kept,
   so just re-run later to fetch the rest.
 - Check the DFS terms of use for the BasicVFR AIP before redistributing generated tiles.
+
+## License
+
+The script is released under the [MIT License](LICENSE). This covers the code only: the charts (DFS) and the
+georeferences (AIP Browser DE) are downloaded at run time and remain subject to their owners' terms.
