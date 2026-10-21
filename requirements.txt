@@ -1,0 +1,6 @@
+GDAL>=3.8
+numpy>=1.26
+Pillow>=10.0
+requests>=2.31
+# Optional: only needed if aip.dfs.de serves a page as PDF instead of PNG
+# PyMuPDF>=1.24

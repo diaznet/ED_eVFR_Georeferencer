@@ -1,0 +1,25 @@
+# Generated data (downloaded at run time, never committed)
+cache/
+output/
+MBTiles/
+Geotiff_Charts/
+*.mbtiles
+*.tif
+*.aux.xml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+build/
+dist/
+*.egg-info/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
