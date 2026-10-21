@@ -7,9 +7,11 @@ The repository contains **only the script**. Charts and georeferences are downlo
 ## Credits: AIP Browser DE
 
 The georeferences used by this script are **not** produced by this project. They come from
-[AIP Browser DE](https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html) by mpMediaSoft
-([public repository](https://github.com/mipastgt/AIPBrowserDE-Public)), whose author maintains them by hand and
-publishes them as open data. All credit for the georeferencing work goes to them.
+**AIP Browser DE** by mpMediaSoft, whose author maintains them by hand and publishes them as open data.
+All credit for the georeferencing work goes to them.
+
+- Documentation: https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html
+- GitHub: https://github.com/mipastgt/AIPBrowserDE-Public
 
 AIP Browser DE already displays these charts georeferenced, but it has **no MBTiles export**, which is the format
 SDVFR Next needs for chart overlays. This project exists only to fill that gap: it combines the AIP Browser DE
